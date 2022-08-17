@@ -10,4 +10,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanderHigor&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-  ![Snake animation](https://github.com/VanderHigor/VanderHigor/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/VanderHigor/VanderHigor/blob/output/github-contribution-grid-snake.svg)
